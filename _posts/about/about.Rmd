@@ -1,8 +1,8 @@
 ---
-title: "About Me"
+title: "Artcile n1"
 author:
-  - name: "___" 
-date: "`r Sys.Date()`"
+  - name: "Verrart Sarah" 
+date: "(08/01/2020)`"
 output: distill::distill_article
 ---
 
