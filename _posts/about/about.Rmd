@@ -1,11 +1,11 @@
 ---
-title: "Artcile n1"
+title: "About me"
 author:
   - name: "Verrart Sarah" 
-date: "(08/01/2020)`"
+date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
 
 This section must bu include a short presentation of you.
 
-- first name/surname, teacher’s name, class name and academic year
+I am Sarah Verrart, my English teacher's name is Ingrid Van Lancker and my biological data science teachers are Philippe Grosjean and Guyliann Engels. I study biology in 2nd year of bachelor. 
