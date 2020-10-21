@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2020-10-21-mon-article/",
+    "title": "mon article test",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Verrart Sarah",
+        "url": {
+          "https://sarahverrart.github.io/SarahVerrart-SarahVerrart_blog/": {}
+        }
+      }
+    ],
+    "date": "2020-10-21",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-10-21T14:14:09+02:00"
+  },
+  {
     "path": "posts/about/",
     "title": "About me",
     "description": {},
@@ -9,39 +26,10 @@
         "url": {}
       }
     ],
-    "date": "2020-10-09",
+    "date": "2020-10-13",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-10-09T13:19:56+02:00"
-  },
-  {
-    "path": "posts/2019-10-24-bacteria-antobiotics/",
-    "title": "Bacterium adaptation",
-    "description": "Analysis of \"More than 6,000 antibiotic resistance genes discovered in the bacteria that inhabit the human gut\"",
-    "author": [
-      {
-        "name": "Student Unknown",
-        "url": {}
-      },
-      {
-        "name": "Nicolas Devilez",
-        "url": {}
-      },
-      {
-        "name": "Engels Guyliann",
-        "url": "https://guyliann.netlify.com/fr"
-      }
-    ],
-    "date": "2020-10-01",
-    "categories": [
-      "English for Science",
-      "Bacteria",
-      "Adaptation"
-    ],
-    "preview": "posts/2019-10-24-bacteria-antobiotics/images/jpg120051fa.png",
-    "last_modified": "2020-10-08T12:24:14+02:00",
-    "preview_width": 3333,
-    "preview_height": 2667
+    "last_modified": "2020-10-13T09:20:22+02:00"
   },
   {
     "path": "posts/2019-10-25-biggest-rodent/",
