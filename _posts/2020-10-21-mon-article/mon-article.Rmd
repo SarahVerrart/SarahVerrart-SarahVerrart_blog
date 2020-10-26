@@ -1,5 +1,5 @@
 ---
-title: "Nerves that sense touch may play role in autism"
+title: "Article 1 ; Nerves that sense touch may play role in autism"
 
 author:
   - name: Verrart Sarah
@@ -17,6 +17,7 @@ knitr::opts_chunk$set(echo = FALSE)
 # Description:
 
   - Source of the article ; American Academy of Neurology
+  Lien ; https://www.sciencedaily.com/releases/2020/10/201014160516.htm
   
   - Publication date ; October 14th 2020, Science Daily
   
