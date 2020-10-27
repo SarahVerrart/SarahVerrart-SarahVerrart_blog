@@ -14,9 +14,8 @@ navbar:
 base_url: SarahVerrart.github.io/SarahVerrart-SarahVerrart_blog/
 collections:
     posts:
-    disqus: sarah-verrarts-blog
+      disqus: sarah-verrarts-blog
       share: [twitter, linkedin, facebook]
-      #disqus: 
 output:
   distill::distill_article:
     css: style.css
