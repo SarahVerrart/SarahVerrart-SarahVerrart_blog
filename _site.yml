@@ -15,6 +15,7 @@ base_url: SarahVerrart.github.io/SarahVerrart-SarahVerrart_blog/
 collections:
     posts:
       disqus: sarah-verrarts-blog
+      hidden: false
       share: [twitter, linkedin, facebook]
 output:
   distill::distill_article:
