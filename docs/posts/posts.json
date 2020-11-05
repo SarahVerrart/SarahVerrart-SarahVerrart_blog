@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2020-11-05-my-post/",
+    "title": "Article 1 ; Nerves that sense touch may play role in autism",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Verrart Sarah",
+        "url": {
+          "https://sarahverrart.github.io/SarahVerrart-SarahVerrart_blog/": {}
+        }
+      }
+    ],
+    "date": "2020-11-05",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-11-05T19:22:31+01:00"
+  },
+  {
     "path": "posts/article1/",
     "title": "Article 1 ; Nerves that sense touch may play role in autism",
     "description": {},
