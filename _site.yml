@@ -11,7 +11,7 @@ navbar:
       href: "posts/about/index.html"
     - icon: fab fa-github
       href: https://github.com/SarahVerrart/SarahVerrart-SarahVerrart_blog.git
-base_url: SarahVerrart.github.io/SarahVerrart-SarahVerrart_blog/
+base_url: https://SarahVerrart.github.io/SarahVerrart-SarahVerrart_blog/
 collections:
     posts:
       share: [twitter, linkedin, facebook]
