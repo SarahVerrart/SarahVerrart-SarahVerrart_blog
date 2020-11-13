@@ -1,5 +1,5 @@
 ---
-title: "SarahVerrart's blog"
+title: "Neurological diseases - Sarah Verrart's blog"
 site: distill::distill_website
 listing: posts
 ---

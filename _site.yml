@@ -1,5 +1,5 @@
 name: "blog-template"
-title: "Neurological diseases - Sarah Verrart's Blog"
+title: "Neurological diseases - Sarah Verrart's blog"
 output_dir: "docs"
 navbar:
   right:
