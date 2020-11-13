@@ -1,22 +1,5 @@
 [
   {
-    "path": "posts/2020-11-11-mon-article/",
-    "title": "test2",
-    "description": "A short description of the post.",
-    "author": [
-      {
-        "name": "Verrart Sarah",
-        "url": {
-          "https://sarahverrart.github.io/SarahVerrart-SarahVerrart_blog/": {}
-        }
-      }
-    ],
-    "date": "2020-11-11",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2020-11-11T14:37:33+01:00"
-  },
-  {
     "path": "posts/2020-11-10-graphicdescription/",
     "title": "Graphic description",
     "description": "This article discusses the biometry of urchins. Especially, we will deal with the differences between urchins from fishery and urchins from farm. The database that we use contains 421 entries, divided between 19 columns concerning urchins's biometry ; diameter, height, total weight, skeleton, test, lantern, spines...",
@@ -86,32 +69,5 @@
     "categories": [],
     "preview": {},
     "last_modified": "2020-10-13T09:20:22+02:00"
-  },
-  {
-    "path": "posts/2019-10-25-biggest-rodent/",
-    "title": "Biggest rodent",
-    "description": "Analysis of \"Biggest rodent 'fought with teeth' like tusks\"",
-    "author": [
-      {
-        "name": "Student Unknown",
-        "url": {}
-      },
-      {
-        "name": "Van Lancker Ingrid",
-        "url": {}
-      },
-      {
-        "name": "Engels Guyliann",
-        "url": "https://guyliann.netlify.com/fr"
-      }
-    ],
-    "date": "2020-10-01",
-    "categories": [
-      "English for Science",
-      "Paleontology",
-      "Rodent"
-    ],
-    "preview": {},
-    "last_modified": "2020-10-08T12:24:15+02:00"
   }
 ]
