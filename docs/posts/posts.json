@@ -18,8 +18,8 @@
   },
   {
     "path": "posts/2020-11-10-graphicdescription/",
-    "title": "graphic_description",
-    "description": "A short description of the post.",
+    "title": "Graphic description",
+    "description": "This article discusses the biometry of urchins. Especially, we will deal with the differences between urchins from fishery and urchins from farm. The database that we use contains 421 entries, divided between 19 columns concerning urchins's biometry ; diameter, height, total weight, skeleton, test, lantern, spines...",
     "author": [
       {
         "name": "Verrart Sarah",
@@ -32,8 +32,10 @@
     "categories": [
       "Data Sciences I"
     ],
-    "preview": {},
-    "last_modified": "2020-11-10T12:49:30+01:00"
+    "preview": "posts/2020-11-10-graphicdescription/graphicdescription_files/figure-html5/Graph-1.png",
+    "last_modified": "2020-11-13T10:00:31+01:00",
+    "preview_width": 1248,
+    "preview_height": 768
   },
   {
     "path": "posts/article1/",

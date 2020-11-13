@@ -1,24 +1,38 @@
 ---
-title: "graphic_description"
+title: "Graphic description"
 # (additional metadata e.g. description and date, excluded for brevity)
 categories: Data Sciences I
 description: |
-  A short description of the post.
+  This article discusses the biometry of urchins. Especially, we will deal with the differences between urchins from fishery and urchins from farm. The database that we use contains 421 entries, divided between 19 columns concerning urchins's biometry ; diameter, height, total weight, skeleton, test, lantern, spines... 
 author:
   - name: Verrart Sarah
     url:
       https://sarahverrart.github.io/SarahVerrart-SarahVerrart_blog/: {}
-date: 11-10-2020
+date: 11-10-20
 output:
   distill::distill_article:
     self_contained: false
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_chunk$set(echo = TRUE)
+# package
+SciViews::R
+options(data.io_lang = "en") # Labels en français
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web.
+```{r importation}
+urchin <- read("urchin_bio", package = "data.io")
+```
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
+```{r Graph}
+chart(urchin, formula = spines ~ skeleton %col=% sex %shape=% sex  | origin) +
+  geom_point(na.rm = TRUE)
+
+```
+The graphic shows us that urchins from farm have an heavier skeleton than urchin from fishery. Indeed, the values for skeleton's weight reach 30g for the urchins from farm, against 20g for the urchins from fishery. 
+Moreover, the values concerning the weight of spines are also the highest for urchins from farm. They reach 15g, against around 10g for urchins from fishery. 
+We see that the sex doesn't seem to have a big influence on the urchin's sizes. 
+
+We conclude that the urchins from farm are bigger than urchins from fishery. If we look at the diameters, total weights, lantern's weight, the tendency is confirmed. 
 
