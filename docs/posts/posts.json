@@ -67,8 +67,10 @@
       }
     ],
     "date": "2020-10-13",
-    "categories": [],
+    "categories": [
+      "About this blog"
+    ],
     "preview": {},
-    "last_modified": "2020-11-14T11:59:55+01:00"
+    "last_modified": "2020-11-14T12:36:51+01:00"
   }
 ]
