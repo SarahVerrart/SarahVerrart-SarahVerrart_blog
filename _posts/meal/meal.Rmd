@@ -2,7 +2,7 @@
 title: "My English Activity Log : MEAL"
 author:
   - name: "Sarah Verrart" 
-date: "`r Sys.Date()`"
+date: "10-21-20
 categories:
   - "English for Science"
   - "M.E.A.L."
