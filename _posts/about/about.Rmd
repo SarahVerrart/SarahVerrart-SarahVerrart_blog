@@ -2,8 +2,12 @@
 title: "About me"
 author:
   - name: "Verrart Sarah" 
-date: "`r Sys.Date()`"
+date: "10-13-20"
 output: distill::distill_article
 ---
 
-I am Sarah Verrart, my English teacher's name is Ingrid Van Lancker. I study biology in 2nd year of bachelor. 
+Hello ! 
+
+I am Sarah Verrart, I study biology in 2nd year of bachelor at Umons. My English teacher's name is Ingrid Van Lancker, and my data sciences' teachers are Philippe Grosjean and Guyliann Engels. 
+
+This blog presents a category named "English for Science" which mainly discusses neurological diseases, my portfolio's subject. It also includes a "Data Science" category which contains works more specific of the Biological Data Science lesson. 
