@@ -1,6 +1,5 @@
 ---
 title: "About me"
-categories: "About this blog"
 author:
   - name: "Verrart Sarah" 
 date: "10-13-20"
@@ -11,6 +10,8 @@ Hello !
 
 I am Sarah Verrart, I study biology in 2nd year of bachelor at Umons. My English teacher's name is Ingrid Van Lancker, and my data sciences' teachers are Philippe Grosjean and Guyliann Engels. 
 
-This blog presents a category named "English for Science" which mainly discusses neurological diseases, my portfolio's subject. The English for Science category also contains a post called "My English Activity Log : MEAL".
+This blog presents a category named "English for Science" which mainly discusses neurological diseases, my portfolio's subject.
 
 The blog also includes a "Data Science" category which contains more specific works for the Biological Data Science lesson. 
+
+Sections "My English Activity Log" and "About me" are situated on the menu. 
