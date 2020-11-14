@@ -17,7 +17,8 @@ knitr::opts_chunk$set(echo = FALSE)
 # Description:
 
   - Source of the article : American Academy of Neurology
-  Lien : https://www.sciencedaily.com/releases/2020/10/201014160516.htm
+  
+  - Lien : https://www.sciencedaily.com/releases/2020/10/201014160516.htm
   
   - Publication date : October 14th 2020, Science Daily
   
@@ -50,8 +51,8 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Researchers
 - The study has been led by Sung-Tsang Hsieh, researcher of National Taiwan University Hospital in Taipei 
 
-## Published in? when?
-- Published in the October 14 2020, in the medical journal Neurology® of the American Academy of Neurology. 
+## Published in? When?
+- Published in the October 14th 2020, in the medical journal Neurology® of the American Academy of Neurology. 
 
 ## General topic
 - Nerves that control our sense of touch, situated in the peripheral nervous system, may play a role in autism disorder
@@ -63,7 +64,7 @@ knitr::opts_chunk$set(echo = FALSE)
 - All the participants had to undergo a skin biopsy to analyse the state of the fibers in their nerves
 - In addition, they had to go through a test with heat pulses applied on their skin - The autistic persons also had to complete questionnaires about their sensory symptoms. 
 
-## Conclusions/discovery
+## Conclusions/Discovery
 - The results of the study showed that 53% of the people with autism had a level of nerve fiber density that was too low, while the control group's levels were in the normal range 
 - It explains why autistic people could handle higher temperatures than the other group, or being scratched or bruised without realizing it. 
 - It teaches us that the response to touch of autistic people depends on the damage in their nerve fibers

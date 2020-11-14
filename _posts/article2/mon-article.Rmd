@@ -1,0 +1,85 @@
+---
+title: "Article 2 : Fish give insight on sound sensitivity in autism"
+categories: English for Science
+author:
+  - name: Verrart Sarah
+    url:
+      https://sarahverrart.github.io/SarahVerrart-SarahVerrart_blog/: {}
+date: 11-14-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Description:
+
+  - Source of the article : University of Queensland
+  
+  - Lien : https://www.sciencedaily.com/releases/2020/11/201110102527.htm
+  
+  - Publication date : November 10th 2020
+  
+  - Word count : 506 words
+  
+  
+# Vocabulary 
+  
+  | Word from the text     | Synonym/definition in English                                                                | French translation         |
+|------------------------|----------------------------------------------------------------------------------------------|----------------------------|
+| Tiny                   | Very small                                                                                   | Minuscule                  |
+| To process (something) | To treat or prepare by some particular process                                               | Traiter                    |
+| Insight                | An understanding of relationships that sheds light on or helps solve a problem               | Aperçu, idée               |
+| To carry               | To serve as a way of sending or transmitting (something)                                     | Porter, transporter        |
+| Neural networks        | Any group of neurons that conduct impulses in a coordinated manner                           | Réseau neuronal            |
+| Pathways               | A path, course, route, or way                                                                | Chemin                     |
+| Overload               | A load or burden that is too much                                                            | Surcharge                  |
+| Auditory               | Relating to hearing or to the ear                                                            | Auditif                    |
+| Criteria               | A rule or principle for evaluating or testing something                                      | Critère                    |
+| Disruption             | Interruption, disturbance                                                                    | Perturbation, interruption |
+| Larvae                 | The young of an animal without a backbone                                                    | Larve                      |
+| Whilst                 | While                                                                                        | Pendant que                |
+| To record              | to use a special machine to preserve or keep sounds, images, or other signals                | Enregistrer                |
+| Burst (of)             | Sudden emission                                                                              | Explosion                  |
+| Plentiful              | Ample; abundant                                                                              | Abondant                   |
+| Hindbrain              | The most posterior of the three primary divisions of the brain in the embryo of a vertebrate | Cerveau postérieur         |
+| Behavioural            | Concerning the behavior                                                                      | Comportemental             |
+| Keen                   | Eager, diligent                                                                              | Appliqué, assidu           |
+| Further                | Comparative of far : more distant                                                            | Plus loin                  |
+ 
+
+# Analysis about the study
+
+## Researchers
+- Queensland Brain Institute's Associate Professor Ethan Scott and Dr Lena Constantin
+
+## Published in? When?
+- Published in BMC Biology
+- Published in ScienceDaily, November 10th 2020
+
+## General topic
+
+- This article discusses hypersensitivity to sound in humans with autism (and with fragile X syndrome)
+- Researchers studied zebrafish which carry the same genetic mutations than those people
+- The understanding of mutations' consequences involved in the neural networks that produce the sensory information disorder could help to know how autistic people's brain processes sound
+
+## Procedure/what was examined
+
+- Researchers recorded the zebrafish larvea's brain activity when they were hearing bursts of sound
+- Zebrafish also had to hear a range of different volumes of sound
+- Scientists also recorded the activity brain when zebrafish were looking at visual stimuli (movements or predators)
+
+## Conclusions/Discovery
+
+- The differences of activity brain between the fragile X fish and control fish when they were exposed to bursts of sound were significant ; researchers concluded that fish with fragile X mutation presented more connections between the different areas of their brain
+- It revealed that responses to the sounds were especially plentiful in the hindbrain and thalamus of fish with fragile X mutation. Those two parts of the brain are key areas to understand the behavior of autistic people. Indeed, thalamus is the sensory information's control centre and hindbrain has a role in behavioural responses
+- The responses to visual stimuli didn't reveal any interesting difference between the two groups of fish 
+- The experiment with the different volumes of sound demonstrated that the fragile X fish could hear quieter volumes than the normal fish : the mutation actually involves a higher sensibility to sound
+
+## Remaining questions
+- The study shines a light on the activity in the hindbrain and on the functioning of the brain to process auditory informations, but a lot of investigations still have to continue. 
+- "We hope that by discovering fundamental information about how the brain processes sound, we will gain further insights into the sensory challenges faced by people with fragile X syndrome and autism." - Dr Constantin's words 
+

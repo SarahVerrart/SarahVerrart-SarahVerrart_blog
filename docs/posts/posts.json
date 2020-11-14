@@ -1,5 +1,24 @@
 [
   {
+    "path": "posts/article2/",
+    "title": "Article 2 : Fish give insight on sound sensitivity in autism",
+    "description": {},
+    "author": [
+      {
+        "name": "Verrart Sarah",
+        "url": {
+          "https://sarahverrart.github.io/SarahVerrart-SarahVerrart_blog/": {}
+        }
+      }
+    ],
+    "date": "2020-11-14",
+    "categories": [
+      "English for Science"
+    ],
+    "preview": {},
+    "last_modified": "2020-11-14T21:51:56+01:00"
+  },
+  {
     "path": "posts/2020-11-10-graphicdescription/",
     "title": "Graphic description",
     "description": "This article discusses the biometry of urchins. Especially, we will deal with the differences between urchins from fishery and urchins from farm. The database that we use contains 421 entries, divided between 19 columns concerning urchins's biometry ; diameter, height, total weight, skeleton, test, lantern, spines...",
@@ -37,7 +56,7 @@
       "English for Science"
     ],
     "preview": {},
-    "last_modified": "2020-11-14T12:03:12+01:00"
+    "last_modified": "2020-11-14T20:21:14+01:00"
   },
   {
     "path": "posts/meal/",
