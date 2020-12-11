@@ -1,5 +1,5 @@
 ---
-title: "Article 4  : New tests identify early changes in Alzheimer’s disease before symptoms appear"
+title: "Article 4  : Forest fires, cars, power plants join list of risk factors for Alzheimer's disease"
 categories: English for Science
 author:
   - name: Verrart Sarah
@@ -17,32 +17,67 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Description
 
-  - Source of the article : University of Gothenburg
+  - Source of the article : University of California - San Francisco
   
-  - Lien : https://www.sciencedaily.com/releases/2020/12/201201203937.htm
+  - Lien : https://www.sciencedaily.com/releases/2020/11/201130113536.htm
   
-  - Publication date : December 1, 2020
+  - Publication date : November 30, 2020
   
-  - Word count : 678 words
+  - Word count : 617 words
   
 # Vocabulary 
   
+| Word from the text | Synonym/definition in English                     | French translation                   |
+|--------------------|---------------------------------------------------|--------------------------------------|
+| impairment         | of ability : person                               | déficience, trouble                  |
+| among              | counted with, member of                           | parmi                                |
+| neighborhood       | local area, quarter                               | voisinage                            |
+| likelihood         | probabilité                                       | probabilité                          |
+| hallmark           | figurative (distinctive characteristic)           | caractéristique principale           |
+| factory            | manufacturing site                                | usine                                |
+| dementia           | deterioration of mental faculties                 | démence                              |
+| power plants       | factory where energy is generated                 | centrale électrique                  |
+| mild               | not strong                                        | bénin                                |
+| zip code           | US (numbers indicating postal area)               | code postal                          |
+| dotted             | objects: scattered                                | parsemés                             |
+| exposure           | the act of exposing or the state of being exposed | exposition                           |
+| airborne           | carried by the air                                | en suspension, dans l'air            |
+| enrolled           | who has formally joined, registered               | inscrit                              |
+| telltale           | a thing serving to reveal or disclose something   | révélateur, typique, caractéristique |
+| to induce          | to bring about or cause                           | induire, provoquer                   |
+| highlighted        | emphasized or made prominent                      | surligné, selectionné                |
+| intake             | a quantity taken in (food, alcohol)               | consommation                         |
+| injury             | harm, damage, or wrong done or suffered           | blessure                             |
+| to tie             | to connect                                        | attacher, relier                     |
 
 # Analysis about the study
 
 ## Researchers
 
-
+- Gil Rabinovici and Leonardo Iaccarino, from UCSF Memory and Aging Center, Department of Neurology and the Weill Institute for Neurosciences
 
 ## Published in? When?
 
-- Published in ScienceDaily, 
+- JAMA Neurology, November 30 2020
+- Published in ScienceDaily, November 30 2020
 
 ## General topic
 
+- The study concerns the risk factors for Alzheimer's disease and especially the implication of airborne pollution in the development of amyloid plaques, which are typical feature of Alzheimer's disease
+
 ## Procedure/what was examined
+
+- Investigations have been done on the PET scans of more than 18 000 senior who had dementia or mild cognitive impairment 
+- The participants lived in different towns with different levels of pollution, and they had an average age of 75 years old 
 
 ## Conclusions/Discovery
 
+- Between the group living in the highest and the one living in the lowest polluted areas, we oberve a difference of 10% to develop amyloid plaques on the PET scan
+
+- According to the study, the airborne pollution could be responsible of 1% of the cases of Alzheimer's disease
+
+- The researchers say that airborne pollution is obviously not the only factor : for example, excessive alcohol intake or traumatic brain injury also induce the development of amyloid plaques
 
 ## Remaining questions
+
+- Words from Leonardo Iaccarino : "Exposure in our daily lives to PM2.5, even at levels that would be considered normal, could contribute to induce a chronic inflammatory response" - Maybe we should review standards 
