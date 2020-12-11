@@ -1,0 +1,83 @@
+---
+title: "Article 3 : Hypothyroidism in pregnant mothers linked to ADHD in their children"
+categories: English for Science
+author:
+  - name: Verrart Sarah
+    url:
+      https://sarahverrart.github.io/SarahVerrart-SarahVerrart_blog/: {}
+date: 12-11-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Description
+
+  - Source of the article : NYU Langone Health / NYU School of Medicine
+  
+  - Lien : https://www.sciencedaily.com/releases/2020/10/201021085107.htm
+  
+  - Publication date : October 21st, 2020
+  
+  - Word count : 658 words
+  
+# Vocabulary 
+  
+  | Word from the text                | Synonym/definition in English                                                                               | French translation        |
+|-----------------------------------|-------------------------------------------------------------------------------------------------------------|---------------------------|
+| chemicals                         | a substance produced by or used in a chemical process                                                       | substances chimiques      |
+| pregnancy                         | the state of being pregnant                                                                                 | grossesse                 |
+| growth                            | the act or process or a manner of growing; development                                                      | croissance                |
+| investigators                     | people who look into or examine the particulars of (something) carefully so as to discover something hidden | chercheurs                |
+|  Attention deficit disorder (ADD) | very common disorder in which childrens have difficulties to focus                                          | Troubles de l'attention   |
+| diagnosed                         | person whose we have determine the identity of a disease by an examination                                  | à qui l'on a diagnostiqué |
+| stages                            | a step or degree in a process, development, or series                                                       | étapes                    |
+| diagnosis                         | the process of determining by examination the nature and circumstances of a diseased condition              | diagnostic                |
+| vulnerable to                     | easily being wounded by a disease (in this context)                                                         | sujet à, sensible à       |
+| Hispanic                          | of Spain or Spanish-speaking countries                                                                      | espagnol                  |
+| previously                        | occurring before something else                                                                             | premièrement              |
+| explanation                       | the act or process of explaining                                                                            | explication               |
+| deficiencies                      | the state or condition of lacking something                                                                 | carences, manque          |
+| large-scale                       | big, extensive                                                                                              | à grande échelle          |
+| decades                           | period of ten years                                                                                         | décennies                 |
+| household                         | people of the same family living in the same house                                                          | les membres de la famille |
+| income                            | personal earnings                                                                                           | revenus                   |
+| inconsistency                     | contradiction, variance                                                                                     | incohérence               |
+| overall                           | for the most part                                                                                           | dans l'ensemble           |
+
+# Analysis about the study
+
+## Researchers
+- Study lead's author Morgan Peltier and his team
+
+
+## Published in? When?
+- American Journal of Perinatology, Oct. 21
+- Published in NYU Langone Health / NYU School of Medicine
+- Published in ScienceDaily, October 21 2020
+
+## General topic
+- The aim is to understand the link between hypothyroidism in pregnant women and development of attention deficit disorder in their children 
+- In the U.S, AD(H)D (attention deficit (with or without hyperactivity) disorder) is the most widespread neurodevelopmental disorder of children
+- This new study has the advantages to involve people with different ethnic backgrounds and to cover data of decades so we can see how the children have managed in school 
+## Procedure/what was examined
+- Investigations were made on 329,157 children aged from birth until 17 years old 
+- They were all born at the same place : Kaiser Permanente Southern California hospitals
+- This study had the particularity to involve people with diverse ethnic backgrounds and also to be two decades long 
+- Factors such as children's medical records, key informations about their mothers (age during pregnancy, diseases, ethnic backgrounds) and household income were also examined 
+- Researchers always used the same criteria to diagnose ADHD 
+
+## Conclusions/Discovery
+
+- The study proved that children whose mothers had hypothyroidism during the pregnancy were 25% more likely to develop ADHD than other children 
+- A difference depending on the sex of the child is also found : the boys from mothers with hypothyroidism are 4x more likely to suffer from ADHD than girls born from mothers with hypothyroidism 
+- The ethnic group can also play a role in development of the ADHD : the study showed that Hispanic children born from mothers with hypothyroidism were the most liable to develop ADHD (45% increased risk)
+- Finally, 16,696 children (on 329,157) were diagnosed with ADHD by the researchers
+- The general conclusion of the study is that hormones and especially thyroid health has a much larger job in the brain development of the fetus and in behavioral disorders than what we expected   
+
+## Remaining questions
+- The role of hormones and thyroid during the pregnancy on the development of the future baby is still bad known and more investigations have to be done, for example for other neurodevelopmental disorders (epilepsy, cerebral palsy, autism)
