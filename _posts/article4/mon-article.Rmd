@@ -1,11 +1,11 @@
 ---
-title: "Article 4  : Forest fires, cars, power plants join list of risk factors for Alzheimer's disease"
+title: "Article 4  : Auditory hallucinations rooted in aberrant brain connectivity"
 categories: English for Science
 author:
   - name: Verrart Sarah
     url:
       https://sarahverrart.github.io/SarahVerrart-SarahVerrart_blog/: {}
-date: 12-11-2020
+date: 12-12-2020
 output:
   distill::distill_article:
     self_contained: false
@@ -17,67 +17,66 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Description
 
-  - Source of the article : University of California - San Francisco
+  - Source of the article : Elsevier
   
-  - Lien : https://www.sciencedaily.com/releases/2020/11/201130113536.htm
+  - Lien : https://www.sciencedaily.com/releases/2020/06/200630111442.htm
   
-  - Publication date : November 30, 2020
+  - Publication date : June 30, 2020
   
-  - Word count : 617 words
+  - Word count : 539 words
   
 # Vocabulary 
   
-| Word from the text | Synonym/definition in English                     | French translation                   |
-|--------------------|---------------------------------------------------|--------------------------------------|
-| impairment         | of ability : person                               | déficience, trouble                  |
-| among              | counted with, member of                           | parmi                                |
-| neighborhood       | local area, quarter                               | voisinage                            |
-| likelihood         | probabilité                                       | probabilité                          |
-| hallmark           | figurative (distinctive characteristic)           | caractéristique principale           |
-| factory            | manufacturing site                                | usine                                |
-| dementia           | deterioration of mental faculties                 | démence                              |
-| power plants       | factory where energy is generated                 | centrale électrique                  |
-| mild               | not strong                                        | bénin                                |
-| zip code           | US (numbers indicating postal area)               | code postal                          |
-| dotted             | objects: scattered                                | parsemés                             |
-| exposure           | the act of exposing or the state of being exposed | exposition                           |
-| airborne           | carried by the air                                | en suspension, dans l'air            |
-| enrolled           | who has formally joined, registered               | inscrit                              |
-| telltale           | a thing serving to reveal or disclose something   | révélateur, typique, caractéristique |
-| to induce          | to bring about or cause                           | induire, provoquer                   |
-| highlighted        | emphasized or made prominent                      | surligné, selectionné                |
-| intake             | a quantity taken in (food, alcohol)               | consommation                         |
-| injury             | harm, damage, or wrong done or suffered           | blessure                             |
-| to tie             | to connect                                        | attacher, relier                     |
+| Word from the text | Synonym/definition in English | French translation             |
+|--------------------|-------------------------------|--------------------------------|
+| phenomenon         | natural occurrence            | phénomène                      |
+| external           | outside, exterior             | extérieur                      |
+| feature            | characteristic                | caractéristique, particularité |
+| arise              | figurative (occur)            | se produire                    |
+| unclear            | text: not clear in meaning    | pas clair                      |
+| pattern            | arrangement, configuration    | motif                          |
+| deletion           | act of erasing                | suppression                    |
+| gateway            | entrance                      | entrée, porte                  |
+| current            | at present                    | actuel                         |
+| trajectory         | path of [sth] set in motion   | trajectoire                    |
+| upon               | formal, literary (on)         | sur                            |
+| assess             | evaluate                      | évaluer, jauger                |
+| postulate          | put forward, propose          | postuler                       |
+| underlie           | be the reason for             | être à la base de              |
+| provide            | furnish, supply               | fournir                        |
+| youths             | condition of being young      | jeunesse                       
 
 # Analysis about the study
 
 ## Researchers
 
-- Gil Rabinovici and Leonardo Iaccarino, from UCSF Memory and Aging Center, Department of Neurology and the Weill Institute for Neurosciences
+- Stephan Eliez
+- Cameron Carter
+- Valentina Mancini
 
 ## Published in? When?
 
-- JAMA Neurology, November 30 2020
-- Published in ScienceDaily, November 30 2020
+- Elsevier, June 30 2020
+- Published in ScienceDaily, June 30 2020
 
 ## General topic
 
-- The study concerns the risk factors for Alzheimer's disease and especially the implication of airborne pollution in the development of amyloid plaques, which are typical feature of Alzheimer's disease
+- Auditory hallucinations, which are one of the common symptoms of schizophrenia, could be caused by an increment of the number of connections in the brain, between the areas in charge of of language-processing and in charge of of sensory 
 
 ## Procedure/what was examined
 
-- Investigations have been done on the PET scans of more than 18 000 senior who had dementia or mild cognitive impairment 
-- The participants lived in different towns with different levels of pollution, and they had an average age of 75 years old 
+- Using magnetic resonance imaging (MRI), the researchers compared brain structures and their connectivity in 110 healthy control subjects and in 120 subjects with a genetic disorder
+- The researchers used magnetic resonance imaging to compare the brains of 110 control subjects to the brain's connectivity of 120 subjects with a specific genetic disorder which increase the risk of developing schizophrenia 
+- Investigations on brain scans of subjects aged from 8 to 35
 
 ## Conclusions/Discovery
 
-- Between the group living in the highest and the one living in the lowest polluted areas, we oberve a difference of 10% to develop amyloid plaques on the PET scan
-
-- According to the study, the airborne pollution could be responsible of 1% of the cases of Alzheimer's disease
-
-- The researchers say that airborne pollution is obviously not the only factor : for example, excessive alcohol intake or traumatic brain injury also induce the development of amyloid plaques
+- The study showed that the thalamic nuclei (which is involved in the process of sensitivity) presents an abnormal development 
+- We also see immature patterns in the thalamo-cortical's connections with the areas in charge of of the auditory 
+- The geniculate nuclei is smaller in people with the specific genetic disorder studied
+- The thalamic nuclei is larger in people with the specific genetic disorder studied (than in the healthy control group)
+- The subjects with the specific genetic disorder present a greater connectivity between the  medial geniculate nucleus (MGN), the areas in charge of auditory and areas in charge of language-processing. This hyperconnectivity could explain the appearance of hallucinations 
 
 ## Remaining questions
 
-- Words from Leonardo Iaccarino : "Exposure in our daily lives to PM2.5, even at levels that would be considered normal, could contribute to induce a chronic inflammatory response" - Maybe we should review standards 
+Dr. Mancini's words :"Further, the investigation of the developmental interactions between the thalamus and the cortex may help to identify new targets for intervention aimed at preventing the emergence of psychotic symptoms." 
