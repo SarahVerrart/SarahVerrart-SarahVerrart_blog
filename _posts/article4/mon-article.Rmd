@@ -65,7 +65,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Procedure/what was examined
 
-- Using magnetic resonance imaging (MRI), the researchers compared brain structures and their connectivity in 110 healthy control subjects and in 120 subjects with a genetic disorder
 - The researchers used magnetic resonance imaging to compare the brains of 110 control subjects to the brain's connectivity of 120 subjects with a specific genetic disorder which increase the risk of developing schizophrenia 
 - Investigations on brain scans of subjects aged from 8 to 35
 
@@ -75,8 +74,8 @@ knitr::opts_chunk$set(echo = FALSE)
 - We also see immature patterns in the thalamo-cortical's connections with the areas in charge of of the auditory 
 - The geniculate nuclei is smaller in people with the specific genetic disorder studied
 - The thalamic nuclei is larger in people with the specific genetic disorder studied (than in the healthy control group)
-- The subjects with the specific genetic disorder present a greater connectivity between the  medial geniculate nucleus (MGN), the areas in charge of auditory and areas in charge of language-processing. This hyperconnectivity could explain the appearance of hallucinations 
+- The subjects with the specific genetic disorder present a greater connectivity between the  medial geniculate nucleus (MGN), the areas in charge of auditory and areas in charge of language-processing. This hyperconnectivity could explain the appearance of hallucinations. 
 
 ## Remaining questions
 
-Dr. Mancini's words :"Further, the investigation of the developmental interactions between the thalamus and the cortex may help to identify new targets for intervention aimed at preventing the emergence of psychotic symptoms." 
+- Dr. Mancini's words :"Further, the investigation of the developmental interactions between the thalamus and the cortex may help to identify new targets for intervention aimed at preventing the emergence of psychotic symptoms." 
