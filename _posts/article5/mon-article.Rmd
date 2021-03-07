@@ -38,7 +38,7 @@ knitr::opts_chunk$set(echo = FALSE)
 | (to) diagnose      | illness : determine                | diagnostiquer             |
 | though             | however                            | cependant                 |
 | desperately        | in despair                         | désespérément             |
-| pharmaceutical     | relating to drugs)                 | pharmaceutique            |
+| pharmaceutical     | relating to drugs                  | pharmaceutique            |
 | excerpt            | snippet of text                    | extrait                   |
 | (to) spot (sth)    | detect, see                        | repérer                   |
 | subtle             | nearly undetectable                | subtil                    |
