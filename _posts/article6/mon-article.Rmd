@@ -1,0 +1,83 @@
+---
+title: "Article 6  : 'Promising' blood test for early stage of Alzheimer disease"
+categories: English for Science
+author:
+  - name: Verrart Sarah
+    url:
+      https://sarahverrart.github.io/SarahVerrart-SarahVerrart_blog/: {}
+date: 03-07-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Description
+
+  - Source of the article : BBC News 
+  
+  - Lien : https://www.bbc.com/news/health-53567486
+  
+  - Publication date : 29 July 2020
+  
+  - Word count : 539 words
+  
+# Vocabulary 
+  
+ | Word from the text | Synonym/definition in English       | French translation              |
+|--------------------|-------------------------------------|---------------------------------|
+| promising          | showing possibility                 | prometteur                      |
+| accuracy           | degree of correctness               | exactitude, précision           |
+| once               | if ever                             | une fois que                    |
+| trial              | clinical testing                    | essai                           |
+| drugs              | medicine                            | médicament                      |
+| enrolled           | who has formally joined, registered | inscrit                         |
+| build-up (noun)    | gradual increase                    | accumulation                    |
+| build up (vb)      | accumulate                          | s'accumuler, s'accroître        |
+| damaging           | causing damage                      | dommageable, nuisible           |
+| unlikely           | not probable                        | peu probable, peu vraisemblable |
+| available          | obtainable                          | disponible                      |
+| pave the way for   | be leading to                       | ouvrir la voie à                |
+| distinguish        | see the difference between          | distinguer                      |
+| findings           | results of investigation            | découvertes, conclusions        |
+ 
+# Analysis about the study
+
+## Researchers
+
+- Rosa Sancho, Alzheimer's Research 
+
+- Amanda Heslegrave, Dementia Research Institute 
+
+## Published in? When?
+
+- National Institutes of Health, August 18 2020
+
+## General topic
+
+- A simple blood test could spot Alzheimer disease 
+
+- Interesting because no heavy examination are required 
+
+## Procedure/what was examined
+
+- Based on the analysis of p-tau217 protein which is seven times more concentrated in the blood of people with the disease 
+
+- Patients have to take a blood test 
+
+## Conclusions/Discovery
+
+- This method can predict Alzheimer disease with 96% accuracy
+
+- Only 4 ml of blood are enough to detect the elevate rate of p-tau217 
+
+- This new technique is as efficient as a brain PET-scan 
+
+- It could allow scientists to detect the disease 20 years before the first symptoms 
+
+## Remaining questions
+
+- "While these are exciting results, you could not say that they indicate a definitive test for potential Alzheimer's disease is available right now", Dr Amanda Heslegrave's words 
