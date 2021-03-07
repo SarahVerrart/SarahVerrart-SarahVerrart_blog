@@ -1,0 +1,86 @@
+---
+title: "Article 5  : The AI that spots Alzheimer's from cookie drawing"
+categories: English for Science
+author:
+  - name: Verrart Sarah
+    url:
+      https://sarahverrart.github.io/SarahVerrart-SarahVerrart_blog/: {}
+date: 03-06-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Description
+
+  - Source of the article : BBC News 
+  
+  - Lien : https://www.bbc.com/news/technology-54538228
+  
+  - Publication date : 22nd October 2020
+  
+  - Word count : 611 words
+  
+# Vocabulary 
+  
+  | Word from the text | Synonym/definition in English      | French translation        |
+|--------------------|------------------------------------|---------------------------|
+| dated              | old-fashioned                      | démodé                    |
+| line drawing       | a drawing done exclusively in line | dessin au trait           |
+| onset              | start, beginning                   | commencement, survenue    |
+| whether            | if                                 | si                        |
+| dementia           | deterioration of mental faculties  | démence                   |
+| delay              | cause to be late                   | retarder                  |
+| (to) diagnose      | illness : determine                | diagnostiquer             |
+| though             | however                            | cependant                 |
+| desperately        | in despair                         | désespérément             |
+| pharmaceutical     | relating to drugs)                 | pharmaceutique            |
+| excerpt            | snippet of text                    | extrait                   |
+| (to) spot (sth)    | detect, see                        | repérer                   |
+| subtle             | nearly undetectable                | subtil                    |
+| ongoing            | continuing                         | en cours                  |
+| long-running       | during an extended time period     | qui dure depuis longtemps |
+| in advance         | beforehand                         | à l'avance                |
+| acknowledged       | accepted, noted                    | reconnu, entendu          |
+| consent            | approval                           | consentement              |
+| trained            | with work skills                   | diplômé, qualifié         |
+  
+# Analysis about the study
+
+## Researchers
+
+- Fiona Carragher, Alzheimer's Society
+
+- Ajay Royyuru, Healthcare Research
+
+## Published in? When?
+
+- The Lancet (eClinicalMedicine), October 22, 2020
+
+## General topic
+
+ - Utility of AI (developed by IBM Research and Pfizer) to help early diagnostic of Alzheimer disease 
+ 
+ - Based on the analysis of language, voice, grammatical subtlety
+
+## Procedure/what was examined
+
+- Participants have to describe a simple line drawing showing kids stealing cookies behind their mother 
+
+- AI analyses their voices, spots grammatical mistakes and differences in the way they understand the drawing 
+
+- Complex statistical datas allow the researchers to establish if the person has an elevate risk to develop Alzheimer and when 
+
+## Conclusions/Discovery
+
+- The predictions of the AI shows 70% accuracy seven years in advance 
+
+- This method has the advantage to use bio-markers such as voice to spot the disease, so no heavy examination are necessary 
+
+## Remaining questions
+
+- Alzheimer disease causes changes in the brain until 15 years before the appearance of the first symptoms, then the studies need to be pursued
