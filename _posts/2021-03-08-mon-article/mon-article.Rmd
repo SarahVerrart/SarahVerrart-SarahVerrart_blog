@@ -1,0 +1,95 @@
+---
+title: "Article 7 : Focal epilepsy often overlooked"
+categories: English for Science
+author:
+  - name: Verrart Sarah
+    url:
+      https://sarahverrart.github.io/SarahVerrart-SarahVerrart_blog/: {}
+date: 03-08-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Description
+
+  - Source of the article : Science Daily
+  
+  - Lien : https://www.sciencedaily.com/releases/2020/10/201020081743.htm
+  
+  - Publication date : October 20, 2020
+  
+  - Word count : 674 words
+  
+# Vocabulary 
+  
+| Word from the text | Synonym/Definition in English                            | French translation               |
+|--------------------|----------------------------------------------------------|----------------------------------|
+| focal seizure      | form of epilepsy that affects only one part of the brain | crise épileptique partielle      |
+| crash              | collision                                                | collision, accident              |
+| (to) outline       | summarize                                                | exposer les grandes lignes de    |
+| subset             | set within a larger set                                  | sous-ensemble                    |
+| uncontrolled       | wild, not restrained                                     | incontrôlé                       |
+| dreamlike          | surreal, like a dream                                    | onirique                         |
+| disruptive         | causing disruption                                       | perturbateur                     |
+| unrestrained       | not controlled                                           | en liberté, non retenu           |
+| (to) portray       | depict, represent                                        | représenter, décrire             |
+| untreated          | not given medical attention                              | non traité, non soigné           |
+| harm               | injury, physical hurt                                    | mal, blessure                    |
+| worldwide          | spanning the world                                       | dans le monde entier             |
+| timely             | well-timed                                               | opportun                         |
+| preventable        | able to be prevented                                     | évitable, prévisible             |
+| annually           | once a year                                              | annuellement                     |
+| critical           | crucial, very important                                  | crucial, primordial, essentiel   |
+| (to) overlook      | not realize importance of                                | négliger, oublier, sous-estimer  |
+| fellow             | colleague, peer                                          | confrère, membre                 |
+| registry           | official record book                                     | registre                         |
+| prior to           | before                                                   | avant                            |
+| subsequently       | next, then                                               | par la suite                     |
+| subsequent         | later, following                                         | ultérieur                        |
+
+# Analysis about the study
+
+## Researchers
+
+- Jaqueline A., NYU Langone Health
+
+- Jacob Pellinen, NYU Langone Health 
+
+## Published in? When?
+
+- Epilepsia Journal, study from NYU Langone Health / NYU School of Medicine
+
+- October 20, 2020
+
+## General topic
+
+- Early diagnosis of epilepsy to prevent car accidents 
+
+- 50 millions people around the world suffer from epilepsy 
+
+- Some focal epilepsy seizures should be taken more seriously to avoid subsequent crash car  
+
+## Procedure/what was examined
+
+- Data's analysis from 447 epileptic patients 
+
+- 34 epilepsy treatment centers all around the world 
+
+- Historic of their seizures, injuries, car accidents...
+
+## Conclusions/Discovery
+
+- 246 patients were diagnosed six years after the first non-motor seizures
+
+- 201 patients were diagnosed two months after the first motor seizures
+
+- For every 13 early diagnoses, one car accident can be avoided
+
+## Remaining questions
+
+- The researchers would want that for every person who arrive at the emergency services after a car accident, neurological tests will be made to detect if the patient suffer from early stage of epilepsy 
