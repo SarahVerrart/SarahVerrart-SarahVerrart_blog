@@ -8,12 +8,15 @@ categories:
 output: distill::distill_article
 ---
 
-- September 21st ; Today I had my first English lesson at the university. I have already learned new vocabulary ! 
+- September 21st : Today I had my first English lesson at the university. I have already learned new vocabulary ! 
 
-- September 24th ; I get used of the BBC application. I downloaded it on my phone and I check the news when I have a little break in my day. It helps me to be conscious of what happens it the world and it helps me to learn new vocabulary. 
+- September 24th : I get used of the BBC application. I downloaded it on my phone and I check the news when I have a little break in my day. It helps me to be conscious of what happens it the world and it helps me to learn new vocabulary. 
 
-- October 15th ; I spent one hour on the phone with my Nepalian friend. He wants to learn French and he teaches me English. He has a very good level. 
+- October 15th : I spent one hour on the phone with my Nepalian friend. He wants to learn French and he teaches me English. He has a very good level. 
 
-- October 21st ; I finished the first season of Mr. Robot ! I watch it in English (original version) with french subtitles. 
+- October 21st : I finished the first season of Mr. Robot ! I watch it in English (original version) with french subtitles. 
 
-- 
+- February 28th  : I had a very nice day with my friend Debora. We walked along the Dendre, a little Belgium's river. She is from Dominican Republic and we speak English together. It's a nice way to combine the useful and the pleasant ! 
+
+- March 13rd : Today I gave a French lesson to a Brazilian girl who understand a little of English. We mostly spoke in French together but we sometimes had to switch to English to better understand each other. It was an interesting experience !
+
