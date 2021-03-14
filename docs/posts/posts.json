@@ -1,5 +1,24 @@
 [
   {
+    "path": "posts/2021-03-14-article-8/",
+    "title": "Bonus : Article 8 : Long-acting antipsychotic therapy plus cognitive training show promise for schizophrenia",
+    "description": {},
+    "author": [
+      {
+        "name": "Verrart Sarah",
+        "url": {
+          "https://sarahverrart.github.io/SarahVerrart-SarahVerrart_blog/": {}
+        }
+      }
+    ],
+    "date": "2021-03-14",
+    "categories": [
+      "English for Science"
+    ],
+    "preview": {},
+    "last_modified": "2021-03-14T10:45:03+01:00"
+  },
+  {
     "path": "posts/article7/",
     "title": "Article 7 : Focal epilepsy often overlooked",
     "description": {},

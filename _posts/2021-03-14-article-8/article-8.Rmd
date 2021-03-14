@@ -1,0 +1,90 @@
+---
+title: "Bonus : Article 8 : Long-acting antipsychotic therapy plus cognitive training show promise for schizophrenia"
+categories: English for Science
+author:
+  - name: Verrart Sarah
+    url:
+      https://sarahverrart.github.io/SarahVerrart-SarahVerrart_blog/: {}
+date: 03-14-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Description
+
+  - Source of the article : Science Daily
+  
+  - Lien : https://www.sciencedaily.com/releases/2020/11/201119153948.htm
+  
+  - Publication date : November 19, 2020
+  
+  - Word count :  314 words
+  
+# Vocabulary 
+  
+| Word from the text  | Synonym/Definition in English                     | French translation                    |
+|---------------------|---------------------------------------------------|---------------------------------------|
+| antipsychotic       | treating psychosis                                | antipsychotique, neuroleptique        |
+| cognition           | the mental act of learning, understanding         | capacités cognitives                  |
+| medication          | treatment with drugs                              | traitement                            |
+| multipronged        | acting on different levels                        | à plusieurs volets                    |
+| disability          | lack of adequate strength or ability              | difficultés, troubles d'apprentissage |
+| sustained           | continuous                                        | soutenu, prolongé                     |
+| (to) randomize      | make [sth] random                                 | introduire de l'aléatoire dans        |
+| employment          | an act or instance of employing a person or thing | emploi, travail                       |
+| consistent          | fitting a diagnosis or explanation                | compatible avec                       |
+
+# Analysis about the study
+
+## Researchers
+
+-  Keith Nuechterlein
+
+- Joseph Ventura
+
+- Kenneth Subotnik
+
+- Denise Gretchen-Doorly
+
+- ... 
+
+## Published in? When?
+
+- University of California - Los Angeles Health Sciences, Psychological Medicine's journal 
+
+- November 19, 2020
+
+## General topic
+
+- Schizophrenia : distress, distancing from reality, hallucinations, personality disorders
+
+- New schizophrenia's treatment 
+
+- Help sick people to come back to a more normal life : school, work, independence, relationships
+
+## Procedure/what was examined
+
+- One year of trial on 60 patients
+
+- Patients which had recently experiment a first episode of Schizophrenia had to follow an antipsychotic medication
+
+- The medication was associated with a cognitive remediation or healthy behavior training
+
+- The cognitive training consisted in training in attention, memory, problem-solving skills
+
+- The healthy behavior training helped them with nutrition, stress management, exercise, and gave them a support to return to their active life 
+
+## Conclusions/Discovery
+
+- Cognitive training combined with adequate neuroleptic medication significantly improved recurrent problems in the early period of the disease 
+
+- These therapies showed a significant impact on the ability to return to work or school, especially by improving the ability to interact with others 
+
+## Remaining questions
+
+- Research on the subject continues, and new treatments must be found and perfected to further improve the quality of life of people suffering from the disease  
