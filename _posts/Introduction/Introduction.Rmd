@@ -16,8 +16,11 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 In Europa, one in eight people will be concerned by a neurological pathology during his life. 
+
 Alzheimer’s disease, hyperactivity, attention deficit disorder, autism, epilepsy and schizophrenia : these illnesses affect hundreds of million people around the world. Especially, epilepsy concerns 50 million people around the world. About 40 million people worldwide suffer from Alzheimer’s disease, the main kind of insanity, which is also the first cause of entrance in institute. 
+
 Neurological diseases are illnesses which affect central or peripheral nervous system : spinal cord, brain, nerves. I chose to talk about neurological diseases because it is a very interesting biology’s subject which can help us to better understand our brain’s functioning and help sick people to encounter a better life. 
+
 Through different articles, we will look at all these diseases and analyze their causes, the possible developments of new treatments, and the influence of our lifestyles in their appearance. We will for example try through this work to understand how hallucinations work, what make them appear, the link between the health of a mother and the appearance of attention troubles in her children, how fishes can help us to comprehend autism, or how cookie drawing can facilitate early diagnosis of Alzheimer’s disease. 
 
 
