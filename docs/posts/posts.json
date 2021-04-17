@@ -1,5 +1,24 @@
 [
   {
+    "path": "posts/2021-04-17-bibliography/",
+    "title": "Bibliography",
+    "description": {},
+    "author": [
+      {
+        "name": "Verrart Sarah",
+        "url": {
+          "https://sarahverrart.github.io/SarahVerrart-SarahVerrart_blog/": {}
+        }
+      }
+    ],
+    "date": "2021-04-17",
+    "categories": [
+      "Bibliography"
+    ],
+    "preview": {},
+    "last_modified": "2021-04-17T11:48:06+02:00"
+  },
+  {
     "path": "posts/2021-04-17-conclusion/",
     "title": "Conclusion",
     "description": {},

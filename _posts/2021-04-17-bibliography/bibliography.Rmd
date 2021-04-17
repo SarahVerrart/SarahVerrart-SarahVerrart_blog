@@ -1,0 +1,56 @@
+---
+title: "Bibliography"
+categories: Bibliography 
+author:
+  - name: Verrart Sarah
+    url:
+      https://sarahverrart.github.io/SarahVerrart-SarahVerrart_blog/: {}
+date: 04-17-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Sources of introduction : 
+- <https://www.who.int/features/qa/55/fr/> Consulted on April 17, 2021 
+
+- <https://institutducerveau-icm.org/fr/chiffres-cles/> Consulted on April 17, 2021
+
+- <https://alzheimer-recherche.org/la-maladie-alzheimer/quest-maladie-dalzheimer/definition-et-chiffres/> Consulted on April 17, 2021
+
+# Sources of article 1 :
+
+- American Academy of Neurology. "Nerves that sense touch may play role in autism." ScienceDaily. ScienceDaily, 14 October 2020. <https://www.sciencedaily.com/releases/2020/10/201014160516.htm>. Consulted on October 21, 2020
+
+# Sources of article 2 : 
+
+- University of Queensland. "Fish give insight on sound sensitivity in autism." ScienceDaily. ScienceDaily, 10 November 2020. <https://www.sciencedaily.com/releases/2020/11/201110102527.htm>. Consulted on November 14, 2020 
+
+# Sources of article 3 : 
+
+- NYU Langone Health / NYU School of Medicine. "Hypothyroidism in pregnant mothers linked to ADHD in their children." ScienceDaily. ScienceDaily, 21 October 2020. <https://www.sciencedaily.com/releases/2020/10/201021085107.htm>. Consulted on December 21, 2020
+
+# Sources of article 4 :
+
+- Elsevier. "Auditory hallucinations rooted in aberrant brain connectivity: Schizophrenia symptom may be the result of increased connections between sensory and language-processing brain areas." ScienceDaily. ScienceDaily, 30 June 2020. <https://www.sciencedaily.com/releases/2020/06/200630111442.htm>. Consulted on December 12, 2020
+
+# Sources of article 5 :
+
+- The Lancet eClinicalMedicine journal. "The AI that spots Alzheimer's from cookie drawing". BBC News. <https://www.bbc.com/news/technology-54538228>. Consulted on March 6, 2021. 
+
+# Sources of article 6 :
+
+- Washington University School of Medicine. "Alzheimer's: 'Promising' blood test for early stage of disease". BBC News, 29 July 2020. <https://www.bbc.com/news/health-53567486>. Consulted on March 7, 2021. 
+
+# Sources of article 7 :
+
+- NYU Langone Health / NYU School of Medicine. "Focal epilepsy often overlooked: Earlier diagnosis could lead to fewer car accidents." ScienceDaily. ScienceDaily, 20 October 2020. <https://www.sciencedaily.com/releases/2020/10/201020081743.htm>. Consulted on March 8, 2021.
+
+# Sources of article 8 : 
+
+- University of California - Los Angeles Health Sciences. "Long-acting antipsychotic therapy plus cognitive training show promise for schizophrenia: Patients who received the combination therapy had increased cognition and functioning." ScienceDaily. ScienceDaily, 19 November 2020. <https://www.sciencedaily.com/releases/2020/11/201119153948.htm>. Consulted on March 14, 2021. 
+
